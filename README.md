@@ -10,8 +10,8 @@ A very simple cli task manager using boltdb
 
 # Usage
 
-To add a task, type `task add <text>`.
-To mark one or more tasks as complete, type `task do <task numbers>`.
-To delete a task or multiple tasks, type `task del <task numbers>`.
-To clear the task list, type `task clear`.
-To show all tasks, type `task list` or simply`task`.
+- To add a task, type `task add <text>`.
+- To mark one or more tasks as complete, type `task do <task numbers>`.
+- To delete a task or multiple tasks, type `task del <task numbers>`.
+- To clear the task list, type `task clear`.
+- To show all tasks, type `task list` or simply`task`.
