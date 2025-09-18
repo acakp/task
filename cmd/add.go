@@ -16,7 +16,6 @@ var addCmd = &cobra.Command{
 		task := strings.Join(args, " ")
 		db.AddTask(task)
 		fmt.Printf("\"%v\" has been added to the task list\n", task)
-		db.ShowTasks()
 	},
 }
 
